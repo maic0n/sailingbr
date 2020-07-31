@@ -2,15 +2,15 @@
   "categorias": [
     {
       "titulo": "Destaques Sailig BR",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Como Matar uma Barata, tecnicamente falando.",
+        "url": "https://youtu.be/WNYQ1itKUIA"
       },
       "videos": [
         {
-          "titulo": "#117 Amyr Klink",
+          "titulo": "A Entrevista Perdida",
           "url": "https://youtu.be/0_xE7oYkgnY"
         },
         {
@@ -18,90 +18,128 @@
           "url": "https://youtu.be/GIXyRb8Lkho"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "#SAL 100 Partiu Antártica?",
+          "url": "https://youtu.be/eax2LYJOVBA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Do mercado corporativo para a praia dos vagabundos",
+          "url": "https://youtu.be/A400zt0Wh-4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "#SAL #90 Veleiro Katoosh sem leme no Pacífico",
+          "url": "https://youtu.be/iJNez44gZ_w"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "O GIGANTE DO ATLÂNTICO, Volta do Atlântico em um veleiro e perseguição em alto-mar",
+          "url": "https://youtu.be/zxzBAKcx02A"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "De Uma Mesa De Som Para O Leme De Um Veleiro",
+          "url": "https://youtu.be/LEZsxnXOtmM"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Elio Crapun em quarentena - Como é o isolamento social em um barco?",
+          "url": "https://youtu.be/B63ADTGn1LI"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Sailing AW",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Sailing Around the World",
+        "url": "https://www.youtube.com/c/SailingAroundtheWorld/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Nem Sempre Tudo Acontece Como Imaginamos",
+          "url": "https://youtu.be/g-ElQ-fu1p8"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Enfrentando o Próprio Medo, 50 Nós de Vento Contra",
+          "url": "https://youtu.be/O6T7LfZ-Rwc"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Como Atracar um Veleiro para Ventos de 50 nós",
+          "url": "https://youtu.be/Gpovf8AiHp0"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Um dia Importante em nossa Viagem, Passamos pelo Canal de Corinto",
+          "url": "https://youtu.be/cJ13Qas2A4Y"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "De Vento em Popa, Melhor Velejada da Grécia",
+          "url": "https://youtu.be/g0E_TkjS6f4"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Ao Sabor Do Mar",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "O prós e contras da vida à bordo",
+        "url": "https://www.youtube.com/c/AoSaborDoMar/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Sejam bem vindos a bordo.",
+          "url": "https://youtu.be/OVAJinrJrMk"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Rotina: Veleiro Encalhado, Caminhada, Cinema.",
+          "url": "https://youtu.be/9EgnTujkR4c"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Manutenção: Aplicação De Antiderrapante",
+          "url": "https://youtu.be/mexNjnI5QLs"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Refeno 2019",
+          "url": "https://youtu.be/Rz6msfGKEZY"
+        },
+        {
+          "titulo": "Estamos Em Terra",
+          "url": "https://youtu.be/e38k_EjPEOk"
+        }
+      ]
+    },
+    {
+      "titulo": "Veleiro Katoosh",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Conheça a história de Neto e Lucas",
+        "url": "https://www.youtube.com/c/VeleiroKatoosh/about"
+      },
+      "videos": [
+        {
+          "titulo": "INCRÍVEL PRIMEIRO DIA DE TRAVESSIA! Partindo pra 14 dias no mar",
+          "url": "https://youtu.be/-ptsG7VUW7A"
+        },
+        {
+          "titulo": "A TRAVESSIA CONTINUA! Fizemos um amigo no mar",
+          "url": "https://youtu.be/m_3O0ELX-4Y"
+        },
+        {
+          "titulo": "TERRA À VISTA! Fim da travessia para Páscoa",
+          "url": "https://youtu.be/I-A8fPLHM00"
+        },
+        {
+          "titulo": "AJUSTES FINAIS ANTES DO PACÍFICO! Instalando AIS e Sensor de Vento",
+          "url": "https://youtu.be/r00ofmxxsR0"
+        },
+        {
+          "titulo": "PARTIU GALÁPAGOS! Travessia Panamá-Galápagos Parte 1",
+          "url": "https://youtu.be/53V-Zak5xNs"
+        },
+        {
+          "titulo": "CRUZAMOS A LINHA DO EQUADOR! Travessia Panamá-Galápagos Parte 2",
+          "url": "https://youtu.be/MWPaU9MgLY0"
         }
       ]
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "red",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -118,36 +156,6 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
     },

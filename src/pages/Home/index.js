@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"A entrevista perdida de Amyr Klink | #SAL # 117"}
+        videoDescription={"Amyr Klink comenta sobre a tendência de mais pessoas optarem por uma vida nômade, seus planos para o futuro e muito mais."}
       />
 
       <Carousel
