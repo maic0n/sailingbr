@@ -2,8 +2,38 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Amigo",
-      "descricao": "Descrição Amiga",
+      "nome": "Destaques",
+      "descricao": "Destaques Sailig BR",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 2,
+      "nome": "Sailing",
+      "descricao": "Sailing AW",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 3,
+      "nome": "Guta e Fausto",
+      "descricao": "Ao Sabor do Mar",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 4,
+      "nome": "Katoosh",
+      "descricao": "Veleiro Katoosh",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 5,
+      "nome": "Filmes",
+      "descricao": "Filmes",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 6,
+      "nome": "Alura",
+      "descricao": "Aprendendo a aprender tecnologia",
       "cor": "#cbd1ff"
     }
   ]
