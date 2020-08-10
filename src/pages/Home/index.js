@@ -23,7 +23,13 @@ function Home() {
 
   return (
     <PageDefault paddingAll={0}>
-      {dadosIniciais.length === 0 && (<div>Loading...</div>)}
+      {dadosIniciais.length === 0 && (
+      <div>
+        Carregando...
+        {' '}
+        <span role="img" aria-label="Ampulheta">⏳</span>
+      </div>
+      )}
 
       {dadosIniciais.map((categoria, indice) => {
         if (indice === 0) {
