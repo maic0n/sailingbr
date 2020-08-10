@@ -1,9 +1,9 @@
 import React from 'react';
+import styled from 'styled-components';
 import Menu from '../components/Menu';
 import Footer from '../components/Footer';
-import styled from 'styled-components';
 
-const Main = styled.main `
+const Main = styled.main`
     background-color: var(--black);
     color: var(--white);
     flex: 1;
@@ -13,15 +13,15 @@ const Main = styled.main `
 `;
 
 function PageDefault({ children }) {
-    return (
-        <>
-            <Menu />
-                <Main>
-                    {children}
-                </Main>
-            <Footer />
-        </>
-    );
+  return (
+    <>
+      <Menu />
+      <Main>
+        {children}
+      </Main>
+      <Footer />
+    </>
+  );
 }
 
 export default PageDefault;

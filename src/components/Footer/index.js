@@ -1,11 +1,12 @@
 import React from 'react';
 import { FooterBase } from './styles';
+import LogoFooter from '../../assets/img/sailingbr_logo_footer.png';
 
 function Footer() {
   return (
     <FooterBase>
       <a href="https://pontodojazz.com.br">
-        <img src="../../assets/img/sailingbr_logo.png" alt="Logo Sailing BR" />
+        <img className="Logo" src={LogoFooter} alt="Logo Sailing BR" />
       </a>
       <p>
         Orgulhosamente criado durante a
