@@ -31,7 +31,7 @@ function CadastroCategoria() {
     if (window.location.href.includes('localhost')) {
       // setTimeout(() => { // Usado para simular o tempo maior de resposta que teremos na internet
       const URL = window.location.hostname.includes('localhost')
-        ? 'https://sailingbr.herokuapp.com/categorias'
+        ? 'http://localhost:8080/categorias'
         : 'https://sailingbr.herokuapp.com/categorias';
       fetch(URL)
         .then(async (respostaDoServer) => {
