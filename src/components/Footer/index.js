@@ -9,7 +9,7 @@ function Footer() {
         <img className="Logo" src={LogoFooter} alt="Logo Sailing BR" />
       </a>
       <p>
-        Orgulhosamente criado durante a
+        Orgulhosamente criado por Maicon F. Santos durante a
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura

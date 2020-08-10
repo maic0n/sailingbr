@@ -2,39 +2,268 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Destaques",
-      "descricao": "Destaques Sailig BR",
-      "cor": "#cbd1ff"
+      "titulo": "Destaques Sailing BR",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Como Matar uma Barata, tecnicamente falando.",
+        "url": "https://youtu.be/WNYQ1itKUIA"
+      }
     },
     {
       "id": 2,
-      "nome": "Sailing",
-      "descricao": "Sailing AW",
-      "cor": "#cbd1ff"
+      "titulo": "Sailing AW",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Sailing Around the World",
+        "url": "https://www.youtube.com/c/SailingAroundtheWorld/"
+      }
     },
     {
       "id": 3,
-      "nome": "Guta e Fausto",
-      "descricao": "Ao Sabor do Mar",
-      "cor": "#cbd1ff"
+      "titulo": "Ao Sabor Do Mar",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "O prós e contras da vida à bordo",
+        "url": "https://www.youtube.com/c/AoSaborDoMar/"
+      }
     },
     {
       "id": 4,
-      "nome": "Katoosh",
-      "descricao": "Veleiro Katoosh",
-      "cor": "#cbd1ff"
+      "titulo": "Veleiro Katoosh",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Conheça a história de Neto e Lucas",
+        "url": "https://www.youtube.com/c/VeleiroKatoosh/about"
+      }
     },
     {
       "id": 5,
-      "nome": "Filmes",
-      "descricao": "Filmes",
-      "cor": "#cbd1ff"
+      "titulo": "Filmes",
+      "cor": "red"
     },
     {
       "id": 6,
-      "nome": "Alura",
-      "descricao": "Aprendendo a aprender tecnologia",
-      "cor": "#cbd1ff"
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#ff6a00",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 50,
+      "categoriaId": 1,
+      "titulo": "A Entrevista Perdida",
+      "description": "Amyr Klink comenta sobre a tendência de mais pessoas optarem por uma vida nômade, seus planos para o futuro e muito mais.",
+      "url": "https://youtu.be/0_xE7oYkgnY"
+    },
+    {
+      "id": 51,
+      "categoriaId": 1,
+      "titulo": "Meteorologia, o que você deveria saber?",
+      "description": "Meteorologia, o que você deveria saber?",
+      "url": "https://youtu.be/GIXyRb8Lkho"
+    },
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "#SAL 100 Partiu Antártica?",
+      "description": "#SAL 100 Partiu Antártica?",
+      "url": "https://youtu.be/eax2LYJOVBA"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Do mercado corporativo para a praia dos vagabundos",
+      "url": "https://youtu.be/A400zt0Wh-4"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "#SAL #90 Veleiro Katoosh sem leme no Pacífico",
+      "url": "https://youtu.be/iJNez44gZ_w"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "O GIGANTE DO ATLÂNTICO, Volta do Atlântico em um veleiro e perseguição em alto-mar",
+      "url": "https://youtu.be/zxzBAKcx02A"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "De Uma Mesa De Som Para O Leme De Um Veleiro",
+      "url": "https://youtu.be/LEZsxnXOtmM"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Elio Crapun em quarentena - Como é o isolamento social em um barco?",
+      "url": "https://youtu.be/B63ADTGn1LI"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Nem Sempre Tudo Acontece Como Imaginamos",
+      "url": "https://youtu.be/g-ElQ-fu1p8"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Enfrentando o Próprio Medo, 50 Nós de Vento Contra",
+      "url": "https://youtu.be/O6T7LfZ-Rwc"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Como Atracar um Veleiro para Ventos de 50 nós",
+      "url": "https://youtu.be/Gpovf8AiHp0"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Um dia Importante em nossa Viagem, Passamos pelo Canal de Corinto",
+      "url": "https://youtu.be/cJ13Qas2A4Y"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "De Vento em Popa, Melhor Velejada da Grécia",
+      "url": "https://youtu.be/g0E_TkjS6f4"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Sejam bem vindos a bordo.",
+      "url": "https://youtu.be/OVAJinrJrMk"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Rotina: Veleiro Encalhado, Caminhada, Cinema.",
+      "url": "https://youtu.be/9EgnTujkR4c"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Manutenção: Aplicação De Antiderrapante",
+      "url": "https://youtu.be/mexNjnI5QLs"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Refeno 2019",
+      "url": "https://youtu.be/Rz6msfGKEZY"
+    },
+    {
+      "id": 7,
+      "categoriaId": 3,
+      "titulo": "Estamos Em Terra",
+      "url": "https://youtu.be/e38k_EjPEOk"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "INCRÍVEL PRIMEIRO DIA DE TRAVESSIA! Partindo pra 14 dias no mar",
+      "url": "https://youtu.be/-ptsG7VUW7A"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "A TRAVESSIA CONTINUA! Fizemos um amigo no mar",
+      "url": "https://youtu.be/m_3O0ELX-4Y"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "TERRA À VISTA! Fim da travessia para Páscoa",
+      "url": "https://youtu.be/I-A8fPLHM00"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "AJUSTES FINAIS ANTES DO PACÍFICO! Instalando AIS e Sensor de Vento",
+      "url": "https://youtu.be/r00ofmxxsR0"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "PARTIU GALÁPAGOS! Travessia Panamá-Galápagos Parte 1",
+      "url": "https://youtu.be/53V-Zak5xNs"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "CRUZAMOS A LINHA DO EQUADOR! Travessia Panamá-Galápagos Parte 2",
+      "url": "https://youtu.be/MWPaU9MgLY0"
+    },
+    {
+      "id": 59,
+      "categoriaId": 5,
+      "titulo": "ET The Extra Terrestrial",
+      "url": "https://youtu.be/qYAETtIIClk"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Gattaca",
+      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+    },
+    {
+      "id": 52,
+      "categoriaId": 5,
+      "titulo": "A Chegada",
+      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+    },
+    {
+      "id": 53,
+      "categoriaId": 5,
+      "titulo": "Feitiço do Tempo",
+      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Interestellar",
+      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+    },
+    {
+      "titulo": "Como estudar melhor?",
+      "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be",
+      "categoriaId": 6,
+      "id": 54
+    },
+    {
+      "titulo": "Faculdade",
+      "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be",
+      "categoriaId": 6,
+      "id": 55
+    },
+    {
+      "titulo": "Frameworks",
+      "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI",
+      "categoriaId": 6,
+      "id": 56
+    },
+    {
+      "titulo": "A mágica do Aprendizado",
+      "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY",
+      "categoriaId": 6,
+      "id": 57
+    },
+    {
+      "titulo": "Como aprender a programar?",
+      "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be",
+      "categoriaId": 6,
+      "id": 58
+    },
+    {
+      "titulo": "Segredos de uma viagem à Antártica | #SAL #124",
+      "url": "https://www.youtube.com/watch?v=G5baW3rRZTQ",
+      "categoriaId": 1,
+      "id": 60
     }
   ]
 }
